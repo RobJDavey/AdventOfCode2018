@@ -4,4 +4,5 @@
  
  1. [Day 1: Chronal Calibration](Day%201)
  2. [Day 2: Inventory Management System](Day%202)
+ 3. [Day 3: No Matter How You Slice It](Day%203)
  */
