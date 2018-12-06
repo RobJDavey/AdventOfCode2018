@@ -7,4 +7,5 @@
  3. [Day 3: No Matter How You Slice It](Day%203)
  4. [Day 4: Repose Record](Day%204)
  5. [Day 5: Alchemical Reduction](Day%205)
+ 6. [Day 6: Chronal Coordinates](Day%206)
  */
