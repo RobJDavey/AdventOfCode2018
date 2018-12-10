@@ -11,4 +11,5 @@
  7. [Day 7: The Sum of Its Parts](Day%207)
  8. [Day 8: Memory Maneuver](Day%208)
  9. [Day 9: Marble Mania](Day%209)
+ 10. [Day 10: The Stars Align](Day%2010)
  */
