@@ -14,4 +14,5 @@
  10. [Day 10: The Stars Align](Day%2010)
  11. [Day 11: Chronal Charge](Day%2011)
  12. [Day 12: Subterranean Sustainability](Day%2012)
+ 13. [Day 13: Mine Cart Madness](Day%2013)
  */
