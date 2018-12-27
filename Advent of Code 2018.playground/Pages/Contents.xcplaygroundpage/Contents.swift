@@ -18,4 +18,5 @@
  14. [Day 14: Chocolate Charts](Day%2014)
  15. [Day 15: Beverage Bandits](Day%2015)
  16. [Day 16: Chronal Classification](Day%2016)
+ 17. [Day 17: Reservoir Research](Day%2017)
  */
