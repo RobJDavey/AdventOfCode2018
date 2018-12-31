@@ -21,4 +21,5 @@
  17. [Day 17: Reservoir Research](Day%2017)
  18. [Day 18: Settlers of The North Pole](Day%2018)
  19. [Day 19: Go With The Flow](Day%2019)
+ 20. [Day 20: A Regular Map](Day%2020)
  */
